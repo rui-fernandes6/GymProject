@@ -1,0 +1,54 @@
+Dia 1: Costas e Ombros
+
+Zona			   Nome do Exercicio			  Tempo			Repeticoes		Conjuntos
+Costas			Weighted Pull Ups			 120 seg		    7			    3
+Costas			Close Grip Chin Up			 120 seg		    7			    3
+Costas			Barbell Bent Over Row			 120 seg		    7			    3
+Costas			Cable Straight Arm Push Down		 90 seg			    7			    3
+Ombros			Barbell Up Right Row			 120 seg		    7			    3
+Ombros			Dumbbell Rear Delt Row			 120 seg		    7			    3
+Ombros			Dumbbell Bent Over Delt Raise		 90 seg			    7			    3
+
+
+
+Dia 2: Pernas e Abdominal
+
+Zona			   Nome do Exercicio			  Tempo			Repeticoes		Conjuntos
+Abdominal		Air Bike				 60 seg			    20			    3
+Pernas Superiores	Barbell Full Squat			 120 seg		    7 			    3
+Pernas Superiores	Barbell Clean Deadlift			 120 seg		    7 			    3
+Pernas Superiores	Leg Press Machine			 120 seg		    7 			    3
+Pernas inferiores	Barbell Standing Calf Raise		 60 seg			    20			    3
+Pernas Inferiores	Barbell Seated Calf Raise		 60 seg			    20			    3
+Abdominal	 	Cable Crunch				 60 seg			    20			    3
+Abdominal		Hanging Leg Raise			 60 seg			    20			    3
+
+
+
+Dia 3: Bicep e Tricep
+
+Zona			   Nome do Exercicio			  Tempo			Repeticoes		Conjuntos
+Bicep			Barbell Curl				 120 seg		    7 			    3
+Tricep			Barbell Close Grip Bench Press		 120 seg		    7   		    3
+Bicep			Dumbbell Bicep Curl			 90 seg			    7			    2
+Bicep 			Dumbbell Hammer Curls			 90 seg			    7			    2
+Tricep			Barbell Lying Triceps Press		 120 seg		    7			    2	
+Bicep			Dumbbell Incline Bench Curl		 120 seg		    7			    2
+Tricep			Barbell Lying Triceps Extension		 90 seg			    7			    2	
+Tricep			Cable Rope Triceps Pushdown		 90 seg			    7			    2
+
+
+
+Dia 4: Peito e Ombros
+
+Zona			   Nome do Exercicio			  Tempo			Repeticoes		Conjuntos
+Peito			Barbell Incline Bench Press		 120 seg		    7 			    3	
+Peito			Dumbbell Incline Bench Press		 120 seg		    7 			    3
+Peito			Barbell Bench Press			 120 seg		    7 			    3
+Peito			Dumbbell Bench Press			 120 seg		    7   		    3	
+Ombros  		Barbell Standing Military Press		 120 seg		    7 			    3
+Ombros  		Dumbbell Shoulder Press			 120 seg		    7 			    3
+Ombros  		Dumbbell Lateral Raise			  90 seg		    7 			    3
+
+
+

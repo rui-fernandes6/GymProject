@@ -1,0 +1,41 @@
+Dia 1: Ombros e Bracos
+	
+Zona			   Nome do Exercicio			  Tempo			Repeticoes		Conjuntos
+Ombros			Barbell Standing Military Press		 90 seg		 	    10			    3	
+Ombros			Barbell Wide Grip Upright Row		 90 seg			    10			    3
+Ombros			Dumbbell Alternating Standing Press	 90 seg			    10			    3
+Ombros			Dambbell Two Arm Rear Dealt RaiseRow	 90 seg			    10			    3
+Triceps			Weighted Tricep Dips		 	 90 seg			    10			    3
+Biceps			Dumbbell Incline Hammer Curls		 90 seg			    10			    3
+Triceps			EZ Bar Decline Triceps Extension	 90 seg			    10			    3
+Biceps			Barbell Spider Curl
+
+
+
+Dia 2: Pernas e Cintura
+
+Zona			   Nome do Exercicio			  Tempo			Repeticoes		Conjuntos
+Abdominal		Air Bike			 	 30 seg			    20			    3
+Pernas Superiores	Barbell Full Squat			 180 seg	       20,15,10,8,7		    5
+Pernas Superiores	Barbell Snatch Deadlift			 180 seg	       20,15,10,8,7		    5
+Abdominal		Cable Crunch				 30 seg			    10			    3
+Abdominal		Knee Hip Raise On Parallel Bars		 30 seg			    10			    3
+Pernas Inferiores	Smith Machine Calf Raise		 30 seg			    10			    3
+Pernas Inferiores	Seated Calf Raise			 30 seg			    10			    3
+
+
+
+Dia 3: Costas e Peito
+
+Zona			   Nome do Exercicio			  Tempo			Repeticoes		Conjuntos
+Costas			Weighted Pull Ups			 120 seg		   10			    4
+Peito			Dumbbell Incline Bench Press		 120 seg		   10			    4
+Costas			Barbell Reverse Grip Bent Over Row	 120 seg		   10			    4
+Peito			Barbell Bench Press			 120 seg		   10			    4
+Costas			Dumbbell One Arm Row			 120 seg		   10			    4
+Peito			Dumbbell Bench Press			 120 seg		   10			    4
+Costas			Cable Straight Arm Push Down		 90 seg		 	   10			    4
+Peito			Cable Inner Chest Press			 90 seg		 	   10			    4
+
+
+

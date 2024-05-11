@@ -1,0 +1,29 @@
+Dia 1:
+
+Zona			   Nome do Exercicio			  Tempo			Repeticoes		Conjuntos
+Peito			Barbell decline bench press		 60 seg			    12			    2
+Peito			Barbell bench press			 60 seg			    12			    2
+Costas			Wide grip lat pulldown			 60 seg			    12 			    2
+Biceps			Dumbbell alternate hammer curl		 60 seg			    12			    2
+Pernas superiores 	Barbell squat				 60 seg			    12 			    2
+Pernas superiores  	Leg press				 60 seg			    12			    2
+Ombros			Dumbbell standing press			 60 seg			    12 			    2
+Triceps			Cable rope triceps pushdown		 60 seg			    12			    2
+Pernas inferiores	Barbell standing calf raise		 60 seg			    12			    2
+
+
+
+Dia 2:
+
+Zona			   Nome do Exercicio			  Tempo			Repeticoes		Conjuntos
+Costas			Pull ups				 60 seg			    12			    2
+Costas			Cable seated row			 60 seg			    12			    2
+Peito			Barbell incline bench press		 60 seg			    12			    2
+Triceps			Close triceps pushup			 60 seg			    12			    2
+Pernas Superiores	Barbell clean deadlift			 60 seg			    12			    2
+Pernas Superiores	Dumbbell lunges				 60 seg			    12			    2
+Ombros			Dumbbell bent over delt raise		 60 seg			    12			    2
+Biceps			Dumbbell incline curl			 60 seg			    12	 	  	    2
+Abdominal		Jackknife sit up			 60 seg			    12			    2
+
+

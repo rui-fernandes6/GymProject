@@ -1,0 +1,19 @@
+Zona			  Nome do Exercicio			  Tempo			Repeticoes	     Conjuntos
+
+Pernas superiores	Barbell lunge				 45 seg			    10			 2
+Costas			Barbell bent over row			 45 seg			    10			 2
+Cardio			Treadmill running			 1 min			    -			 -
+Shoulders		Barbell clean and jerk		 	 45 seg			    10			 2
+Peito			Dumbbell bench press		 	 45 seg			    10			 2
+Cardio			Rowing					 1 min			    -			 -
+Pernas superiores	Barbell front squat			 45 seg			    10			 2
+Ombros			Dumbbell standing palms in press 	 45 seg			    10			 2
+Cardio			Stationary bike				 1 min			    -			 -
+Costas			Barbell deadlift			 45 seg			    10   		 2
+Peito			Dumbbell straight arm pullover		 45 seg			    10			 2
+Cardio			Elliptical training			 1 min			    -			 -
+Tricep			Weighted tricep dips			 45 seg			    10			 2
+Costas			Chin up					 45 seg			    10 			 2
+
+
+

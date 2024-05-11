@@ -1,0 +1,75 @@
+Dia 1: Peito e Costas
+
+Zona			  Nome do Exercicio			 Tempo			Repeticoes		Conjuntos
+Cardio			Treadmill Running			 4 min 			    -			    -
+Peito			Barbell Bench Press			 90 seg			    12			    4
+Peito			Barbell Incline Bench Press		 90 seg		 	    12			    4
+Peito			Dumbbell Bench Press			 90 seg		 	    12			    3
+Peito			Dumbbell Incline Fly			 60 seg		 	    16			    3
+Peito			Cable High Cross Over			 60 seg		 	    18			    3
+Costas			Full Range Of Motion Lat Pulldown	 60 seg		 	    15			    3
+Costas  		Wide Grip Pulldown Behind The Neck	 60 seg		 	    15			    3
+Cardio			Elliptical Training			 10 min			    -			    -
+
+
+
+Dia 2: Ombros e Biceps
+
+Zona			  Nome do Exercicio			 Tempo			Repeticoes		Conjuntos
+Cardio			Treadmill Running			 4 min 			    -			    -
+Ombros	      		Smith Machine Shoulder Press		 90 seg		 	    12			    4
+Ombros  		Dumbbell Shoulder Press			 90 seg		 	    12			    4
+Ombros			Cable Lateral Raise			 60 seg			    15			    3
+Ombros			Dumbbell Front Incline Raise		 60 seg			    12			    3
+Ombros			Cable Rope Face Pull			 60 seg			    15			    3
+Bicep			Barbell Curl				 60 seg			    12			    3
+Bicep			Dumbbell Bicep Curl			 60 seg			    12			    3
+Bicep			Dumbbell Hammer Curls			 60 seg			    12			    3
+Bicep			Barbell Bicep Drag Curl			 60 seg			    12			    3
+
+
+
+Dia 3: Cardio e abdominal 
+
+Zona			  Nome do Exercicio			 Tempo			Repeticoes		Conjuntos
+Cardio			Treadmill Running			 10 min 		    -			    -	
+Abdominal		Decline Crunch				 60 seg			    25			    3
+Abdominal		Jackknife Sit up			 60 seg			    20			    2
+Abdominal		Cable Rope Crunch			 60 seg			    15			    3
+Abdominal		Cable Side Bends			 60 seg			    30			    2
+Abdominal		Weight Plate Russian Twist		 60 seg			    25			    2
+Cardio			Elliptical Training			 10 min			    - 			    -
+Cardio			Swimming				 15 min			    -			    -				
+
+
+
+Day 4: Pernas
+
+Zona			  Nome do Exercicio			 Tempo			Repeticoes		Conjuntos
+Cardio			Treadmill Running			 4 min 			    -			    -
+Pernas Superiores	Barbell Full Squat			 60 seg			    12			    4
+Pernas Superiores 	Leg Press			 	 60 seg			    12			    4
+Pernas Superiores	Leg Extensions				 60 seg			    15			    3
+Pernas Superiores	Seated Leg Curl			 	 60 seg			    15			    3
+Pernas Superiores	Barbell Standing Calf Raise		 60 seg			    18			    3
+Pernas Superiores	Calf Press On Leg Press			 60 seg			    25 			    3
+Cardio			Elliptical Training			 10 min			    -			    -
+
+
+
+Dia 5: Costas e Triceps
+
+Zona			  Nome do Exercicio			 Tempo			Repeticoes		Conjuntos
+Costas			Hyperextensions - Back Extensions	 60 sec			    15			    2
+Costas			Barbell Deadlift			 90 sec			    12			    4
+Costas			Barbell Reverse Grip Bent Over Row	 90 sec			    12			    4
+Costas			Barbell Bent Over Two Arm Row	 	 90 sec			    12			    4
+Costas			Inverted Row				 60 sec			    12			    3
+Costas			Chin Up					 60 sec			    12			    3
+Tricep			Barbell Lying Triceps Extension		 60 sec			    12			    3
+Tricep			Cable Rope Triceps Pushdown		 60 sec			    15			    3
+Tricep			Dumbbell Standing One Arm Triceps 	 60 sec			    15			    3
+Tricep			Cable Tricep Kickback			 60 sec			    15			    3
+
+
+		
